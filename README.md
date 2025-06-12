@@ -1,14 +1,9 @@
 # 👨‍💻 Olá, eu sou o Mikeia da Silva 👋
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web/Mobile FullStack`**
 
 
 Sou formado em Análise e Desenvolvimento de Sistemas, Pós Graduado em Desenvolvimento Web Full Stack e Pós Graduado em Desenvolvimento Mobile Full Stack. 
-
-+ mais de 8 anos de experiência com desenvolvimento de software.
-+ mais de 2 anos de experiência com desenvolvimento de aplicações mobile React Native.
-+ mais de 2 anos de experiência com desenvolvimento Back-End com NodeJs.
-+ mais de 8 anos de experiência com desenvolvimento de software desktop com Delphi.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
